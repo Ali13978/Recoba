@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ae2c00ca1741c144a96ac8f0b71de857
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gobold Thin Light
+  fontNames:
+  - Gobold Thin Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e97af849425e544f9cc8dd1678b1908, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
