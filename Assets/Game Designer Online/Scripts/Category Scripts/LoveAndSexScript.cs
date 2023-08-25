@@ -465,20 +465,20 @@ namespace Game_Designer_Online.Scripts.Category_Scripts
                 new Dictionary<string, Dictionary<List<string>, int>>()
                 {
                     {
-                        "You Know He Really Likes You When... He tells you that he doesn't want a threesome with you because he can't stand the thought of sharing you?",
+                        "True or False/Survey - Which one of these is not necessary a red flag",
                         new Dictionary<List<string>, int>
                         {
                             {
                                 //List of options
                                 new List<string>
                                 {
-                                    "Yes",
-                                    "No",
-                                    "Depends on whether he's had threesomes before",
-                                    ""
+                                    "He's friends with his ex",
+                                    "He has a lot of female friends",
+                                    "He think having friend of opposite sex is deal breaker",
+                                    "He has new one close friend who is female"
                                 },
                                 //Correct answer
-                                1
+                                2
                             },
                         }
                     },
