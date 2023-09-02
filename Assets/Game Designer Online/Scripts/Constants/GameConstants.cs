@@ -33,7 +33,7 @@ namespace Game_Designer_Online.Scripts.Constants
 
         private void Start()
         {
-            SetKeysAtStart();
+            //SetKeysAtStart();
         }
     }
 }
