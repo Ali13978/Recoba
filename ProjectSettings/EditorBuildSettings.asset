@@ -14,25 +14,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game Designer Online/Scenes/Category.unity
     guid: 6b5f2d549b7e46a49858d7819e747e6d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/Loading.unity
     guid: c239acf8414996a40b6229487e4d9380
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/Mens Language.unity
     guid: b4581e46b45c6bd44a7f0a84e8d5a53f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/Money And Finance.unity
     guid: 6f23f4528bcda5b43ae17b37fe969fef
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/Love And Sex.unity
     guid: 392d0f46511f6d047b4d2c2e607e6d08
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/When u r out.unity
     guid: 09e4b7d3c9750944185cb410a945a85d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/Review Panel.unity
     guid: 7f698ba7b91815a4d86a4eb160dc2a94
-  - enabled: 1
+  - enabled: 0
     path: Assets/Game Designer Online/Scenes/Stats.unity
     guid: 66555b42875d0ab46b328888d1f29828
   m_configObjects: {}

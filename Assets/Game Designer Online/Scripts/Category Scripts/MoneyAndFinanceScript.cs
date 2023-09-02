@@ -532,7 +532,11 @@ namespace Game_Designer_Online.Scripts.Category_Scripts
                 //Setting up buttons to be displayed
                 checkResultsButton.gameObject.SetActive(true);
                 skipButton.gameObject.SetActive(false);
-                whoWinsObjectReference.SetActive(true);
+
+                if (!isFree)
+                    whoWinsObjectReference.SetActive(true);
+                else
+                    whoWinsObjectReference.SetActive(false);
                 return;
             }
 
